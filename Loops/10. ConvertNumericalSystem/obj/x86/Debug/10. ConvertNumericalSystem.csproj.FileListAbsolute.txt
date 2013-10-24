@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\10. ConvertNumericalSystem\bin\Debug\_10.ConvertNumericalSystem.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\10. ConvertNumericalSystem\bin\Debug\_10.ConvertNumericalSystem.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\10. ConvertNumericalSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\10. ConvertNumericalSystem\obj\x86\Debug\_10.ConvertNumericalSystem.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\10. ConvertNumericalSystem\obj\x86\Debug\_10.ConvertNumericalSystem.pdb

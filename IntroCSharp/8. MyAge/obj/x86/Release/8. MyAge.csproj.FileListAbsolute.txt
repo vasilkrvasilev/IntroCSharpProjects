@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\8. MyAge\bin\Release\_8.MyAge.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\8. MyAge\bin\Release\_8.MyAge.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\8. MyAge\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\8. MyAge\obj\x86\Release\_8.MyAge.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\8. MyAge\obj\x86\Release\_8.MyAge.pdb

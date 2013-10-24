@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\6. CheckGenderMale\bin\Release\_6.CheckGenderMale.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\6. CheckGenderMale\bin\Release\_6.CheckGenderMale.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\6. CheckGenderMale\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\6. CheckGenderMale\obj\x86\Release\_6.CheckGenderMale.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\6. CheckGenderMale\obj\x86\Release\_6.CheckGenderMale.pdb

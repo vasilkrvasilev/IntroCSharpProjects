@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\7. RandomNumbers\bin\Release\_7.RandomNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\7. RandomNumbers\bin\Release\_7.RandomNumbers.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\7. RandomNumbers\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\7. RandomNumbers\obj\x86\Release\_7.RandomNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\7. RandomNumbers\obj\x86\Release\_7.RandomNumbers.pdb

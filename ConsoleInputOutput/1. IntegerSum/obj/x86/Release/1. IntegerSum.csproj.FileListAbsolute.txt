@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\1. IntegerSum\bin\Release\_1.IntegerSum.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\1. IntegerSum\bin\Release\_1.IntegerSum.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\1. IntegerSum\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\1. IntegerSum\obj\x86\Release\_1.IntegerSum.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\1. IntegerSum\obj\x86\Release\_1.IntegerSum.pdb

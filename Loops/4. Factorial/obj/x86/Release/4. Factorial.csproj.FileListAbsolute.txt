@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\4. Factorial\bin\Release\_4.Factorial.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\4. Factorial\bin\Release\_4.Factorial.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\4. Factorial\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\4. Factorial\obj\x86\Release\_4.Factorial.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\4. Factorial\obj\x86\Release\_4.Factorial.pdb

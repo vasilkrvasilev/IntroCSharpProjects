@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\4. DivisionByFive\bin\Release\_4.DivisionByFive.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\4. DivisionByFive\bin\Release\_4.DivisionByFive.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\4. DivisionByFive\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\4. DivisionByFive\obj\x86\Release\_4.DivisionByFive.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\4. DivisionByFive\obj\x86\Release\_4.DivisionByFive.pdb

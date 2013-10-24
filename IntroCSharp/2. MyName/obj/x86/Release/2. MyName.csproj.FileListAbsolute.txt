@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\2. MyName\bin\Release\_2.MyName.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\2. MyName\bin\Release\_2.MyName.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\2. MyName\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\2. MyName\obj\x86\Release\_2.MyName.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\2. MyName\obj\x86\Release\_2.MyName.pdb

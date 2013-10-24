@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\12 ASCIISymbols\bin\Debug\12 ASCIISymbols.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\12 ASCIISymbols\bin\Debug\12 ASCIISymbols.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\12 ASCIISymbols\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\12 ASCIISymbols\obj\x86\Debug\12 ASCIISymbols.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\12 ASCIISymbols\obj\x86\Debug\12 ASCIISymbols.pdb

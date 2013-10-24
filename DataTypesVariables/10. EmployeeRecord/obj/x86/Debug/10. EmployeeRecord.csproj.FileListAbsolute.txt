@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\10. EmployeeRecord\bin\Debug\_10.EmployeeRecord.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\10. EmployeeRecord\bin\Debug\_10.EmployeeRecord.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\10. EmployeeRecord\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\10. EmployeeRecord\obj\x86\Debug\_10.EmployeeRecord.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\10. EmployeeRecord\obj\x86\Debug\_10.EmployeeRecord.pdb

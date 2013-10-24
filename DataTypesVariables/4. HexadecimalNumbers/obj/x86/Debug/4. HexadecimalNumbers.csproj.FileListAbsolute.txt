@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\4. HexadecimalNumbers\bin\Debug\_4.HexadecimalNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\4. HexadecimalNumbers\bin\Debug\_4.HexadecimalNumbers.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\4. HexadecimalNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\4. HexadecimalNumbers\obj\x86\Debug\_4.HexadecimalNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\4. HexadecimalNumbers\obj\x86\Debug\_4.HexadecimalNumbers.pdb

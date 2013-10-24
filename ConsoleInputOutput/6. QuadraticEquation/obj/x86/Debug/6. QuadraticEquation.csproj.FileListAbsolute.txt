@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\6. QuadraticEquation\bin\Debug\_6.QuadraticEquation.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\6. QuadraticEquation\bin\Debug\_6.QuadraticEquation.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\6. QuadraticEquation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\6. QuadraticEquation\obj\x86\Debug\_6.QuadraticEquation.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\6. QuadraticEquation\obj\x86\Debug\_6.QuadraticEquation.pdb

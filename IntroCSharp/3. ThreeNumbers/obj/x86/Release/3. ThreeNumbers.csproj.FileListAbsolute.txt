@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\3. ThreeNumbers\bin\Release\_3.ThreeNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\3. ThreeNumbers\bin\Release\_3.ThreeNumbers.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\3. ThreeNumbers\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\3. ThreeNumbers\obj\x86\Release\_3.ThreeNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\3. ThreeNumbers\obj\x86\Release\_3.ThreeNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\3. Rectangle\bin\Release\_3.Rectangle.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\3. Rectangle\bin\Release\_3.Rectangle.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\3. Rectangle\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\3. Rectangle\obj\x86\Release\_3.Rectangle.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\3. Rectangle\obj\x86\Release\_3.Rectangle.pdb

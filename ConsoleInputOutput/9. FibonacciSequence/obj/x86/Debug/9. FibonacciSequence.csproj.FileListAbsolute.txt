@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\9. FibonacciSequence\bin\Debug\_9.FibonacciSequence.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\9. FibonacciSequence\bin\Debug\_9.FibonacciSequence.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\9. FibonacciSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\9. FibonacciSequence\obj\x86\Debug\_9.FibonacciSequence.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\9. FibonacciSequence\obj\x86\Debug\_9.FibonacciSequence.pdb

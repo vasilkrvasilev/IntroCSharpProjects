@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\7. FibonacciSum\bin\Release\_7.FibonacciSum.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\7. FibonacciSum\bin\Release\_7.FibonacciSum.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\7. FibonacciSum\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\7. FibonacciSum\obj\x86\Release\_7.FibonacciSum.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\7. FibonacciSum\obj\x86\Release\_7.FibonacciSum.pdb

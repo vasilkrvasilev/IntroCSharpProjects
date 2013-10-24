@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConditionalStatements\8. SwitchStatement\bin\Release\_8.SwitchStatement.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConditionalStatements\8. SwitchStatement\bin\Release\_8.SwitchStatement.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConditionalStatements\8. SwitchStatement\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConditionalStatements\8. SwitchStatement\obj\x86\Release\_8.SwitchStatement.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConditionalStatements\8. SwitchStatement\obj\x86\Release\_8.SwitchStatement.pdb

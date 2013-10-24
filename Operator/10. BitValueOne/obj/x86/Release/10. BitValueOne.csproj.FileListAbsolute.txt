@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\10. BitValueOne\bin\Release\_10.BitValueOne.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\10. BitValueOne\bin\Release\_10.BitValueOne.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\10. BitValueOne\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\10. BitValueOne\obj\x86\Release\_10.BitValueOne.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\10. BitValueOne\obj\x86\Release\_10.BitValueOne.pdb

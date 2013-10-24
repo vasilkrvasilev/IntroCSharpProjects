@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\2. NotDivisibleNumbers\bin\Debug\_2.NotDivisibleNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\2. NotDivisibleNumbers\bin\Debug\_2.NotDivisibleNumbers.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\2. NotDivisibleNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\2. NotDivisibleNumbers\obj\x86\Debug\_2.NotDivisibleNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\2. NotDivisibleNumbers\obj\x86\Debug\_2.NotDivisibleNumbers.pdb

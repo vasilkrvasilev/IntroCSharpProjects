@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConditionalStatements\10. BonusSystem\bin\Release\_10.BonusSystem.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConditionalStatements\10. BonusSystem\bin\Release\_10.BonusSystem.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConditionalStatements\10. BonusSystem\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConditionalStatements\10. BonusSystem\obj\x86\Release\_10.BonusSystem.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConditionalStatements\10. BonusSystem\obj\x86\Release\_10.BonusSystem.pdb

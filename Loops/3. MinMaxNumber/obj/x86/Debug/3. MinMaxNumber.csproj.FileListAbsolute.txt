@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\3. MinMaxNumber\bin\Debug\_3.MinMaxNumber.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\3. MinMaxNumber\bin\Debug\_3.MinMaxNumber.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\3. MinMaxNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\3. MinMaxNumber\obj\x86\Debug\_3.MinMaxNumber.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\3. MinMaxNumber\obj\x86\Debug\_3.MinMaxNumber.pdb

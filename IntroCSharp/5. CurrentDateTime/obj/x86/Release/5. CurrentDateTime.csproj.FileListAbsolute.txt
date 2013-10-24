@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\5. CurrentDateTime\bin\Release\_5.CurrentDateTime.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\5. CurrentDateTime\bin\Release\_5.CurrentDateTime.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\5. CurrentDateTime\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\5. CurrentDateTime\obj\x86\Release\_5.CurrentDateTime.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\5. CurrentDateTime\obj\x86\Release\_5.CurrentDateTime.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConditionalStatements\11. NumberVerbally\bin\Release\_11.NumberVerbally.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConditionalStatements\11. NumberVerbally\bin\Release\_11.NumberVerbally.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConditionalStatements\11. NumberVerbally\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConditionalStatements\11. NumberVerbally\obj\x86\Release\_11.NumberVerbally.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConditionalStatements\11. NumberVerbally\obj\x86\Release\_11.NumberVerbally.pdb

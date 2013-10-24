@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\11. ExchangeValues\bin\Debug\_11.ExchangeValues.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\11. ExchangeValues\bin\Debug\_11.ExchangeValues.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\11. ExchangeValues\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\11. ExchangeValues\obj\x86\Debug\_11.ExchangeValues.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\11. ExchangeValues\obj\x86\Debug\_11.ExchangeValues.pdb

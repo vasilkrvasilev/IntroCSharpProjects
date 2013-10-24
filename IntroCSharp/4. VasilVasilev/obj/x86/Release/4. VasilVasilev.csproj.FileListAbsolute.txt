@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\4. VasilVasilev\bin\Release\_4.VasilVasilev.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\4. VasilVasilev\bin\Release\_4.VasilVasilev.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\4. VasilVasilev\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\4. VasilVasilev\obj\x86\Release\_4.VasilVasilev.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\IntroCSharp\4. VasilVasilev\obj\x86\Release\_4.VasilVasilev.pdb

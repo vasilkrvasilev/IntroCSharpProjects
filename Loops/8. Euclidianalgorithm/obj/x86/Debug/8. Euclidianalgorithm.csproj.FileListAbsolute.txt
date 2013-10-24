@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\8. Euclidianalgorithm\bin\Debug\_8.Euclidianalgorithm.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\8. Euclidianalgorithm\bin\Debug\_8.Euclidianalgorithm.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\8. Euclidianalgorithm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\8. Euclidianalgorithm\obj\x86\Debug\_8.Euclidianalgorithm.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\8. Euclidianalgorithm\obj\x86\Debug\_8.Euclidianalgorithm.pdb

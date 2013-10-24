@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\7. StringObjectTypes\bin\Debug\_7.StringObjectTypes.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\7. StringObjectTypes\bin\Debug\_7.StringObjectTypes.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\7. StringObjectTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\7. StringObjectTypes\obj\x86\Debug\_7.StringObjectTypes.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\7. StringObjectTypes\obj\x86\Debug\_7.StringObjectTypes.pdb

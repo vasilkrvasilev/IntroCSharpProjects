@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\9. IsoscelesTriangle\bin\Debug\_9.IsoscelesTriangle.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\9. IsoscelesTriangle\bin\Debug\_9.IsoscelesTriangle.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\9. IsoscelesTriangle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\9. IsoscelesTriangle\obj\x86\Debug\_9.IsoscelesTriangle.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\9. IsoscelesTriangle\obj\x86\Debug\_9.IsoscelesTriangle.pdb

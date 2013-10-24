@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\2. CirclePerimeterArea\bin\Debug\_2.CirclePerimeterArea.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\2. CirclePerimeterArea\bin\Debug\_2.CirclePerimeterArea.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\2. CirclePerimeterArea\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\2. CirclePerimeterArea\obj\x86\Debug\_2.CirclePerimeterArea.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\2. CirclePerimeterArea\obj\x86\Debug\_2.CirclePerimeterArea.pdb

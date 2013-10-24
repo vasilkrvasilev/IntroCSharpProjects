@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\1. IntegerTypes\bin\Debug\_1.IntegerTypes.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\1. IntegerTypes\bin\Debug\_1.IntegerTypes.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\1. IntegerTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\1. IntegerTypes\obj\x86\Debug\_1.IntegerTypes.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\1. IntegerTypes\obj\x86\Debug\_1.IntegerTypes.pdb

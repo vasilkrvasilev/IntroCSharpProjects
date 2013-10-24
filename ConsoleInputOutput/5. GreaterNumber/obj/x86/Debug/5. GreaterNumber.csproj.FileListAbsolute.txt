@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\5. GreaterNumber\bin\Debug\_5.GreaterNumber.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\5. GreaterNumber\bin\Debug\_5.GreaterNumber.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\5. GreaterNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\5. GreaterNumber\obj\x86\Debug\_5.GreaterNumber.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\5. GreaterNumber\obj\x86\Debug\_5.GreaterNumber.pdb

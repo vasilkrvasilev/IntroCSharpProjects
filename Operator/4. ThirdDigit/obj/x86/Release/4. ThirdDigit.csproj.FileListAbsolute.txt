@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\4. ThirdDigit\bin\Release\_4.ThirdDigit.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\4. ThirdDigit\bin\Release\_4.ThirdDigit.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\4. ThirdDigit\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\4. ThirdDigit\obj\x86\Release\_4.ThirdDigit.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\4. ThirdDigit\obj\x86\Release\_4.ThirdDigit.pdb

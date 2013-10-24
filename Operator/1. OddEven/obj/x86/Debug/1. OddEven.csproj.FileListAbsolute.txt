@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\1. OddEven\bin\Debug\_1.OddEven.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\1. OddEven\bin\Debug\_1.OddEven.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\1. OddEven\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\1. OddEven\obj\x86\Debug\_1.OddEven.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\1. OddEven\obj\x86\Debug\_1.OddEven.pdb

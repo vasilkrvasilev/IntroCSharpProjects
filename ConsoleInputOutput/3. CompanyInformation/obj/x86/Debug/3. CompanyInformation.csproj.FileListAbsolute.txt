@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\3. CompanyInformation\bin\Debug\_3.CompanyInformation.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\3. CompanyInformation\bin\Debug\_3.CompanyInformation.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\3. CompanyInformation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\3. CompanyInformation\obj\x86\Debug\_3.CompanyInformation.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\3. CompanyInformation\obj\x86\Debug\_3.CompanyInformation.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\12. Matrix\bin\Debug\_12.Matrix.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\12. Matrix\bin\Debug\_12.Matrix.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\12. Matrix\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\12. Matrix\obj\x86\Debug\_12.Matrix.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\12. Matrix\obj\x86\Debug\_12.Matrix.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\13. ZeroCounter\bin\Release\_13.ZeroCounter.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\13. ZeroCounter\bin\Release\_13.ZeroCounter.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\13. ZeroCounter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\13. ZeroCounter\obj\x86\Release\_13.ZeroCounter.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\13. ZeroCounter\obj\x86\Release\_13.ZeroCounter.pdb

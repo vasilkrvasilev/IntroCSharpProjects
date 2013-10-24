@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\6. Circle\bin\Release\_6.Circle.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\6. Circle\bin\Release\_6.Circle.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\6. Circle\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\6. Circle\obj\x86\Release\_6.Circle.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\6. Circle\obj\x86\Release\_6.Circle.pdb

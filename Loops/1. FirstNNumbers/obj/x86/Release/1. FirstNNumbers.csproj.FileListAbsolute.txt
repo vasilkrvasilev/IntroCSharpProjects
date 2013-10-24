@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\1. FirstNNumbers\bin\Release\_1.FirstNNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\1. FirstNNumbers\bin\Release\_1.FirstNNumbers.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\1. FirstNNumbers\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\1. FirstNNumbers\obj\x86\Release\_1.FirstNNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\1. FirstNNumbers\obj\x86\Release\_1.FirstNNumbers.pdb

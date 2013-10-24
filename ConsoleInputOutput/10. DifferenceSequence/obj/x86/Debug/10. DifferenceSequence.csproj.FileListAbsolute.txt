@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\10. DifferenceSequence\bin\Debug\_10.DifferenceSequence.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\10. DifferenceSequence\bin\Debug\_10.DifferenceSequence.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\10. DifferenceSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\10. DifferenceSequence\obj\x86\Debug\_10.DifferenceSequence.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\10. DifferenceSequence\obj\x86\Debug\_10.DifferenceSequence.pdb

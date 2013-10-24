@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\15. RandomNumbers\bin\Debug\_15.RandomNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\15. RandomNumbers\bin\Debug\_15.RandomNumbers.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\15. RandomNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\15. RandomNumbers\obj\x86\Debug\_15.RandomNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\15. RandomNumbers\obj\x86\Debug\_15.RandomNumbers.pdb

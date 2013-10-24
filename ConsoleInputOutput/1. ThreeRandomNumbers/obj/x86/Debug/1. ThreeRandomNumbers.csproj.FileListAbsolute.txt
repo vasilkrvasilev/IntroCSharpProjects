@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\1. ThreeRandomNumbers\bin\Debug\_1.ThreeRandomNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\1. ThreeRandomNumbers\bin\Debug\_1.ThreeRandomNumbers.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\1. ThreeRandomNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\1. ThreeRandomNumbers\obj\x86\Debug\_1.ThreeRandomNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\ConsoleInputOutput\1. ThreeRandomNumbers\obj\x86\Debug\_1.ThreeRandomNumbers.pdb

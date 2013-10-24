@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\5. FactorialExpression\bin\Debug\_5.FactorialExpression.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\5. FactorialExpression\bin\Debug\_5.FactorialExpression.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\5. FactorialExpression\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\5. FactorialExpression\obj\x86\Debug\_5.FactorialExpression.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Loops\5. FactorialExpression\obj\x86\Debug\_5.FactorialExpression.pdb

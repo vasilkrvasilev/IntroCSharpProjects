@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\7. PrimeNumber\bin\Release\_7.PrimeNumber.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\7. PrimeNumber\bin\Release\_7.PrimeNumber.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\7. PrimeNumber\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\7. PrimeNumber\obj\x86\Release\_7.PrimeNumber.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\Operator\7. PrimeNumber\obj\x86\Release\_7.PrimeNumber.pdb

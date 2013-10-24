@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\3. CompareNumbers\bin\Release\_3.CompareNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\3. CompareNumbers\bin\Release\_3.CompareNumbers.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\3. CompareNumbers\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\3. CompareNumbers\obj\x86\Release\_3.CompareNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\IntroCSharp\DataTypesVariables\3. CompareNumbers\obj\x86\Release\_3.CompareNumbers.pdb
